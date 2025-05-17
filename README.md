@@ -62,19 +62,10 @@ Write your own steps
 
 ### OUTPUT
 
-## Training Loss, Validation Loss Vs Iteration Plot
-
-Include your plot here
-
-## Confusion Matrix
-
-Include confusion matrix here
-
-## Classification Report
-Include classification report here
 
 ### New Sample Data Prediction
 Include your sample input and output here
+![sample input](https://github.com/user-attachments/assets/6d45e026-04a3-430f-847b-a92854e0ab21)
 
 ## RESULT
 Include your result here
